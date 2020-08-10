@@ -1,3 +1,7 @@
+/* FireFighter1017: This file was used as reference for logic of the enigma machine
+   It is not mandatory to have this file in your repo to have enigma's script code to work.
+*/
+
 /* S&T GeoTronics Enigma Code. This Arduino Mega custom shield is programmed to replicate
    exactly the behavior of a true German M4 Enigma machine.
    It uses 4 16-Segment units, 5 LEDs, 26 Lamps setup as keyboard, 26 keyboard buttons
